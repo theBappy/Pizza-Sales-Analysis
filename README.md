@@ -1,1 +1,1 @@
-# pizza_sales_sql_project
+![alt text](https://files.oaiusercontent.com/file-3W2iB5gH5T6j7N8k9L1m4P0q?se=2025-11-23T05:55:07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1f5e4d2a-8b0c-4a3d-9e7f-6c2b1a0d5e8f.webp&sig=JpD0y6jQ2%2B8lZ2X1vW3n4O5p6qR7s8t9u0v1w2x3y4z)
