@@ -5,16 +5,19 @@
 The Pizza Sales Analysis project provides a comprehensive breakdown of a pizza restaurant’s sales performance.
 Using dynamic dashboards, this project visualizes:
 
-✔️ Total revenue
-✔️ Order patterns
-✔️ Peak sales hours
-✔️ Weekly trends
+✔️ Total revenue<br>
+✔️ Order patterns<br>
+✔️ Peak sales hours<br>
+✔️ Weekly trends<br>
 ✔️ Product-level performance
 
 With data-driven insights, restaurants can optimize menu offerings, improve inventory planning, and enhance revenue strategies.
 
 This project includes three dynamic dashboards created with Tableau, supported by a backend built on MS SQL Server.
 
+<br><br>
+🛠️ Tech Stack
+<br> <p align="left"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="65" height="65" alt="SQL Server"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="65" height="65" alt="Tableau"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" width="65" height="65" alt="PowerPoint"/> </p> <br>
 <br>
 🖥️ 
 <br> <img width="1024" height="1024" alt="56180d41-6766-4cf7-8c3d-25772907081b" src="https://github.com/user-attachments/assets/1419c24a-1929-4fa6-9e87-107a13572e3f" />
@@ -106,8 +109,6 @@ A granular breakdown of pizza sales:
 🧾 Full transaction-level view
 
 <br>
-🛠️ Tech Stack
-<br> <p align="left"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="65" height="65" alt="SQL Server"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="65" height="65" alt="Tableau"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" width="65" height="65" alt="PowerPoint"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="65" height="65" alt="Figma"/> </p> <br>
 Tools & Purpose
 Tool	Purpose
 🗄 MS SQL Server	Data storage & preprocessing
