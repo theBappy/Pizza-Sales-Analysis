@@ -16,7 +16,7 @@ With data-driven insights, restaurants can optimize menu offerings, improve inve
 This project includes three dynamic dashboards created with Tableau, supported by a backend built on MS SQL Server.
 
 <br>
-🖥️ Demo Snapshot
+🖥️ 
 <br> <img width="1024" height="1024" alt="56180d41-6766-4cf7-8c3d-25772907081b" src="https://github.com/user-attachments/assets/1419c24a-1929-4fa6-9e87-107a13572e3f" />
 
 <br><br>
