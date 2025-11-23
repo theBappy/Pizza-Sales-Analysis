@@ -79,18 +79,18 @@ Avg Price
 
 Contribution %
 
-<br>
+<br><br>
 🔹 Dashboard 2 — Overview
 
 Visualizes trends across time, category, and size.
 
 Chart Type	Metrics	Purpose
-📈 Line Chart	Revenue, Orders	Monthly & Weekly trends
-🌊 Area Chart	Hourly Revenue	Identify peak sale hours
-📊 Bar Chart	Revenue, Qty Sold	Category performance
-📏 Bar Chart	Revenue, Orders	Size performance (S, M, L, XL)
-🟩 Treemap	Revenue, Qty Sold	Contribution by pizza name
-🍩 Donut Chart	Orders & Revenue	Day-of-week performance
+📈 Line Chart	Revenue, Orders	Monthly & Weekly trends<br>
+🌊 Area Chart	Hourly Revenue	Identify peak sale hours<br>
+📊 Bar Chart	Revenue, Qty Sold	Category performance<br>
+📏 Bar Chart	Revenue, Orders	Size performance (S, M, L, XL)<br>
+🟩 Treemap	Revenue, Qty Sold	Contribution by pizza name<br>
+🍩 Donut Chart	Orders & Revenue	Day-of-week performance<br>
 <br>
 🔹 Dashboard 3 — Detailed View
 
