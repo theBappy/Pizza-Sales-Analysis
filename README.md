@@ -20,8 +20,8 @@ This project includes three dynamic dashboards created with Tableau, supported b
 <br> <p align="left"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="65" height="65" alt="SQL Server"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="65" height="65" alt="Tableau"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" width="65" height="65" alt="PowerPoint"/> </p> 
 <br>
 🖥️ 
-<br> <img width="1024" height="1024" alt="56180d41-6766-4cf7-8c3d-25772907081b" src="https://github.com/user-attachments/assets/1419c24a-1929-4fa6-9e87-107a13572e3f" />
-
+<br> 
+![pizza (1)](https://github.com/user-attachments/assets/60a39ad5-ea73-46cd-99b1-2ab0dceabb63)
 <br>
 
 🎯 Problem Statement
