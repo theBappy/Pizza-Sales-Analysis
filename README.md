@@ -11,18 +11,15 @@ Using dynamic dashboards, this project visualizes:
 ✔️ Weekly trends<br>
 ✔️ Product-level performance
 
-With data-driven insights, restaurants can optimize menu offerings, improve inventory planning, and enhance revenue strategies.
+With data-driven insights, restaurants can optimize menu offerings, improve inventory planning, and enhance revenue strategies.<br>
+![pizza (1)](https://github.com/user-attachments/assets/bf65151c-2b99-4d67-b098-0513de1e0e57)
 
 This project includes three dynamic dashboards created with Tableau, supported by a backend built on MS SQL Server.
 
 <br>
 🛠️ Tech Stack
 <br> <p align="left"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="65" height="65" alt="SQL Server"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="65" height="65" alt="Tableau"/> &nbsp;&nbsp; <img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" width="65" height="65" alt="PowerPoint"/> </p> 
-<br>
-🖥️ 
-<br> 
-![pizza (1)](https://github.com/user-attachments/assets/60a39ad5-ea73-46cd-99b1-2ab0dceabb63)
-<br>
+
 
 🎯 Problem Statement
 
